@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Oussama Toutla  
 
-<!--
-**oussamattl/oussamattl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Licence pro développement web & mobile  
+💡 Passionné par le DevOps, le full-stack et les logiciels libres  
+🚀 Toujours en quête de nouvelles connaissances  
 
-Here are some ideas to get you started:
+## 🔧 Compétences  
+- Front-End : HTML, CSS, JavaScript, React  
+- Back-End : PHP, Python, Java, C++, Laravel  
+- Base de données : MySQL, MongoDB  
+- Outils : Git, Docker, Kubernetes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projets mis en avant  
+🔹 [NomProjet1](lien-du-repo) - Description rapide  
+🔹 [NomProjet2](lien-du-repo) - Description rapide  
+🔹 [NomProjet3](lien-du-repo) - Description rapide  
+
+## 📫 Me contacter  
+📩 Email : [ton-email@gmail.com](mailto:ton-email@gmail.com)  
+💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)   
